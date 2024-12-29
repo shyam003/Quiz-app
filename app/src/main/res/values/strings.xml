@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz APP</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Mobile_numb">Enter Mobile Number</string>
+    <string name="First_name_err">Name can not be empty</string>
+    <string name="Email_err">Field can not be empty</string>
+    <string name="Email_Validation_err"> Bad email pattern</string>
+    <string name="Phone_err">Mobile number can not be less than 10 digits</string>
+    <string name="Password_8char_Less_err">Password can not be less than 8 characters</string>
+    <string name="Password_err">Password should contain at least one number,one uppercase and lowercase and a special character</string>
+    <string name="Confirm_Password_err">Password dose\'nt match please check</string>
+</resources>

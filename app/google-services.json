@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "359249376966",
+    "firebase_url": "https://my-application-7da94-default-rtdb.firebaseio.com",
+    "project_id": "my-application-7da94",
+    "storage_bucket": "my-application-7da94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359249376966:android:9fbbd65d85b7e228ed09c7",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359249376966-55f0qia14qb8ndocahivlf4t1vgggcqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28eUExBp6TOHGcZHd2cU9Q2ZKi-nC9Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359249376966-55f0qia14qb8ndocahivlf4t1vgggcqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359249376966:android:e1d38d3d10c1335ced09c7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359249376966-55f0qia14qb8ndocahivlf4t1vgggcqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28eUExBp6TOHGcZHd2cU9Q2ZKi-nC9Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359249376966-55f0qia14qb8ndocahivlf4t1vgggcqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359249376966:android:56d2343a5251ac2ded09c7",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359249376966-55f0qia14qb8ndocahivlf4t1vgggcqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28eUExBp6TOHGcZHd2cU9Q2ZKi-nC9Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359249376966-55f0qia14qb8ndocahivlf4t1vgggcqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
